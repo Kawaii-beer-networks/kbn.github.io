@@ -2,13 +2,21 @@
 
 > The Most Kawaii-Beer-EVER
 
+The Official Site of KBN, Kawaii_beer Networks.
+
+## Our Mascot
+
+<img src="./biruchan.png" alt="Biru-chan" style="zoom:25%;" />  
+
+> Biru-chan
+
 ## Our Team
 
-| USER   | ROLE          |
-| ------ | ------------- |
-| Dobob  | MASTER OF KBN |
-| XERUEL | MEMBER OF KBN |
-| Ngin-x | MEMBER OF KBN |
+| USER   | ROLE                                    |
+| ------ | --------------------------------------- |
+| Dobob  | Seoul Region Master - Domain Owner      |
+| XERUEL | Goyang Region Master - Member Of KBN    |
+| Ngin-x | Pyeongtaek Rigeon Master -Memver Of KBN |
 
 ## Our Region
 

@@ -16,13 +16,15 @@ The Official Site of KBN, Kawaii_beer Networks.
 | ------ | --------------------------------------- |
 | Dobob  | Seoul Region Master - Domain Owner      |
 | XERUEL | Goyang Region Master - Member Of KBN    |
-| Ngin-x | Pyeongtaek Rigeon Master -Memver Of KBN |
+| Ngin-x | Pyeongtaek Region Master -Member Of KBN |
 
-## Our Region
-
-SORRY, THIS INFORMATION IS NOT AVAILABLE
-But, You can Join Our Team!
-
-## Come To KBN!
+## Join To KBN!
 
 Our Goal is Nothing. But We have very fun project!
+
+``` Contact : admin@kawaii.beer``` 
+
+## Our Project
+
+Maybe... It will not expose into public web.
+But.....Sometime????

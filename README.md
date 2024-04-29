@@ -28,3 +28,6 @@ Our Goal is Nothing. But We have very fun project!
 
 Maybe... It will not expose into public web.
 But.....Sometime????
+THE KBN ORG REPO IS OPEN NOW!
+[KBN-GITHUB-REPO](https://github.com/orgs/Kawaii-beer-networks/repositories)
+

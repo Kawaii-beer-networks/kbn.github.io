@@ -16,7 +16,7 @@ The Official Site of KBN, Kawaii_beer Networks.
 | ------ | --------------------------------------- |
 | Dobob  | Seoul Region Master - Domain Owner      |
 | XERUEL | Goyang Region Master - Member Of KBN    |
-| Ngin-x | Pyeongtaek Region Master -Member Of KBN |
+| KH | Misteryous Person -Member Of KBN |
 
 ## Join To KBN!
 
@@ -31,3 +31,5 @@ But.....Sometime????
 THE KBN ORG REPO IS OPEN NOW!
 [KBN-GITHUB-REPO](https://github.com/orgs/Kawaii-beer-networks/repositories)
 
+## IDC 
+We Will soon open the IDC. Please Wait Until OPEN
